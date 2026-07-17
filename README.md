@@ -22,6 +22,14 @@
 
 <br>
 
+## 📌 Proyectos destacados
+ 
+<a href="https://github.com/Juan-Chala-123/school-guardian-project/GuardianEscolar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Chala-123&repo=school-guardian-project/GuardianEscolar&theme=default&hide_border=true" />
+</a>
+
+<br>
+
 <div align="center">
 
 ## 📊 Estadísticas
@@ -29,6 +37,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Juan-Chala-123&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Chala-123&layout=compact&hide_border=true&theme=default" width="30%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Chala-123&hide_border=true&theme=default" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Juan-Chala-123&hide_border=true&theme=default" width="49%" />
 
 </div>
