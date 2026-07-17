@@ -22,19 +22,13 @@
 
 <br>
 
-## 📌 Proyectos destacados
-
-> Estos se configuran nativamente desde tu perfil de GitHub: **Customize your pins** (botón junto a "Popular repositories"). No es parte del README, pero te lo dejo anotado aquí para que no se te olvide.
-
-<br>
-
 <div align="center">
 
 ## 📊 Estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&hide_border=true&theme=default" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Juan-Chala-123&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Chala-123&layout=compact&hide_border=true&theme=default" width="30%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&hide_border=true&theme=default" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Chala-123&hide_border=true&theme=default" width="49%" />
 
 </div>
