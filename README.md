@@ -2,7 +2,7 @@
 
 # Juan Chala
 
-### Construyendo software con .NET, backend robusto y frontends modernos.
+## Stack
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,docker,git,vscode,rider" alt="Mi stack" />
 
@@ -28,7 +28,7 @@
   </a>
 </div>
 
-## Stats
+## 📊 Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,17 +38,9 @@
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Juan-Chala-123&layout=compact&theme=onedark" />
   </a>
-</div>
-
-
-<br>
-
-<div align="center">
-
-## 📊 Estadísticas
-
-<a href="https://github.com/Juan-Chala-123/">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Juan-Chala-123&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Chala-123&theme=gruvbox&hide_border=true" />
-
+  <br>
+  <br>
+  <p align="center">
+    <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Chala-123&theme=onedark" alt="Juan-Chala-123" />
+  </p>
 </div>
