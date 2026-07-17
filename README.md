@@ -11,7 +11,7 @@
 <a href="mailto:jpchalaramirez@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/tu-usuario" target="_blank">
+<a href="https://www.linkedin.com/in/juan-pablo-chala-ramirez-94b822365" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -19,7 +19,7 @@
 
 <br>
 
-## 📌 Proyectos destacados
+## 📌 Featured projects
 
 <div align="center">
   <a href="https://github.com/Juan-Chala-123/vault">
