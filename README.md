@@ -6,14 +6,11 @@
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,docker,git,vscode,rider" alt="Mi stack" />
 
-<br>
-<br>
-<br>
+<br><br>
 
 <a href="mailto:jpchalaramirez@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://linkedin.com/in/tu-usuario" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -23,9 +20,9 @@
 <br>
 
 ## 📌 Proyectos destacados
- 
-<a href="https://github.com/Juan-Chala-123/school-guardian-project/GuardianEscolar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Chala-123&repo=school-guardian-project/GuardianEscolar&theme=default&hide_border=true" />
+
+<a href="https://github.com/Juan-Chala-123/GuardianEscolar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Chala-123&repo=GuardianEscolar&theme=default&hide_border=true" />
 </a>
 
 <br>
