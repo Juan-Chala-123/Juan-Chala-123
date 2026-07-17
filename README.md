@@ -1,6 +1,6 @@
 <div align="center">
 
-# Juan Pablo Chala Ramirez
+# Juan Chala
 
 ### Construyendo software con .NET, backend robusto y frontends modernos.
 
