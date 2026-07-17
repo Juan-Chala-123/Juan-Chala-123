@@ -21,9 +21,25 @@
 
 ## 📌 Proyectos destacados
 
-<a href="https://github.com/Juan-Chala-123/GuardianEscolar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan-Chala-123&repo=GuardianEscolar&theme=default&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/Juan-Chala-123/vault">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Juan-Chala-123&repo=vault&theme=onedark" />
+  </a>
+</div>
+
+## Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Juan-Chala-123&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Juan-Chala-123&layout=compact&theme=onedark" />
+  </a>
+</div>
+
 
 <br>
 
@@ -31,9 +47,8 @@
 
 ## 📊 Estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juan-Chala-123&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Chala-123&layout=compact&hide_border=true&theme=default" width="30%" />
-
-<img src="https://streak-stats.demolab.com/?user=Juan-Chala-123&hide_border=true&theme=default" width="49%" />
+<a href="https://github.com/Juan-Chala-123/">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Juan-Chala-123&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Chala-123&theme=gruvbox&hide_border=true" />
 
 </div>
