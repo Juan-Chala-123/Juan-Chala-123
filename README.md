@@ -2,7 +2,7 @@
 
 # Juan Pablo Chala Ramirez
 
-## Stack
+## 🧑‍💻 Stack
 
 | Categoría | Tecnología |
 | :--- | :--- |
