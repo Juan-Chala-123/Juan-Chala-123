@@ -1,10 +1,24 @@
-<div align="center">
+<div>
 
 # Juan Chala
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,docker,git,vscode,rider" alt="Mi stack" />
+| Languages: | <img src="https://skillicons.dev/icons?i=java,cs,ts" alt="Backend" /> |
+| :--- | :--- |
+| Frontend: | <img src="https://skillicons.dev/icons?i=react,angular" alt="Frontend" /> |
+| :--- | :--- |
+| Bcckend: | <img src="https://skillicons.dev/icons?i=dotnet,spring" alt="Frontend" /> |
+| :--- | :--- |
+| Database: | <img src="https://skillicons.dev/icons?i=postgresql,sqlserver" alt="Frontend" /> |
+| :--- | :--- |
+| Version Control: | <img src="https://skillicons.dev/icons?i=git,github" alt="Frontend" /> |
+| :--- | :--- |
+| IDEs: | <img src="https://skillicons.dev/icons?i=rider,intelli" alt="Frontend" /> |
+| :--- | :--- |
+| Editor Text: | <img src="https://skillicons.dev/icons?i=vscode" alt="Frontend" /> |
+| :--- | :--- |
+| Tools: | <img src="https://skillicons.dev/icons?i=docker" alt="Frontend" /> |
 
 <br><br>
 
