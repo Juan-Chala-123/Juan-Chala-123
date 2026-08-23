@@ -1,24 +1,19 @@
 <div>
 
-# Juan Chala
+# Juan Pablo Chala Ramirez
 
 ## Stack
 
-| Languages: | <img src="https://skillicons.dev/icons?i=java,cs,ts" alt="Backend" /> |
+| Categoría | Tecnología |
 | :--- | :--- |
-| Frontend: | <img src="https://skillicons.dev/icons?i=react,angular" alt="Frontend" /> |
-| :--- | :--- |
-| Bcckend: | <img src="https://skillicons.dev/icons?i=dotnet,spring" alt="Frontend" /> |
-| :--- | :--- |
-| Database: | <img src="https://skillicons.dev/icons?i=postgresql,sqlserver" alt="Frontend" /> |
-| :--- | :--- |
-| Version Control: | <img src="https://skillicons.dev/icons?i=git,github" alt="Frontend" /> |
-| :--- | :--- |
-| IDEs: | <img src="https://skillicons.dev/icons?i=rider,intelli" alt="Frontend" /> |
-| :--- | :--- |
-| Editor Text: | <img src="https://skillicons.dev/icons?i=vscode" alt="Frontend" /> |
-| :--- | :--- |
-| Tools: | <img src="https://skillicons.dev/icons?i=docker" alt="Frontend" /> |
+| Languages: | <img src="https://skillicons.dev/icons?i=java,cs,ts" width="135" alt="Backend" /> |
+| Frontend: | <img src="https://skillicons.dev/icons?i=react,angular" width="90" alt="Frontend" /> |
+| Backend: | <img src="https://skillicons.dev/icons?i=dotnet,spring" width="90" alt="Backend" /> |
+| Database: | <img src="https://skillicons.dev/icons?i=postgresql" width="50" alt="Database" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" /> |
+| Version Control: | <img src="https://skillicons.dev/icons?i=git,github" width="90" alt="Version Control" /> |
+| IDEs: | <img src="https://skillicons.dev/icons?i=rider" width="45" alt="IDEs" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40" alt="NetBeans" /> |
+| Editor Text: | <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="Editor Text" /> |
+| Tools: | <img src="https://skillicons.dev/icons?i=docker" width="45" alt="Tools" /> |
 
 <br><br>
 
