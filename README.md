@@ -1,6 +1,6 @@
 <div>
 
-# Juan Pablo Chala Ramirez
+# Juan Chala
 
 ## 🧑‍💻 Stack
 
